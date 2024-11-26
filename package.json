@@ -1,0 +1,27 @@
+{
+  "name": "react-custom-tags-input",
+  "version": "1.0.2",
+  "description": "A customizable React component for managing tags input to push into an array.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc"
+  },
+  "peerDependencies": {
+    "react": "^17.0.0 || ^18.0.0",
+    "react-dom": "^17.0.0 || ^18.0.0",
+    "react-icons": "^4.0.0"
+  },
+  "keywords": [
+    "react",
+    "tags",
+    "input",
+    "custom",
+    "component"
+  ],
+  "author": "pr4th4meshh",
+  "license": "MIT"
+}
